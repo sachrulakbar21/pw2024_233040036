@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tugas 2c Moch Sachrul Akbar R</title>
+    <title>Tugas 2c Moch Sachrul Akbar Ramadhan</title>
     <style>
         .flex {
             display: flex;
